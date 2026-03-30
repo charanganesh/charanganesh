@@ -1,8 +1,6 @@
 # hello 👋
 
-```
-I'm Charan, a software engineer building for Apple platforms and the web.
-Currently shipping features to millions of cricket fans at Cricbuzz.
+i'm charan, a software engineer building for apple platforms and the web.
+currently shipping features to millions of cricket fans at cricbuzz.
 
-Email: charan@charan.sh
-```
+email: charan@charan.sh
