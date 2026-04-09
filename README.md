@@ -1,6 +1,7 @@
 # Charan Ganesh
 
-Software engineer building for Apple platforms. Currently at [cricbuzz.com](https://cricbuzz.com), modernising legacy systems and shipping new experiences.
+Software engineer building for Apple platforms. 
+Currently at [cricbuzz.com](https://cricbuzz.com), modernising legacy systems and shipping new experiences.
 
 ## Experience
 
